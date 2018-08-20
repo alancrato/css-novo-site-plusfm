@@ -23,10 +23,14 @@
                     17/08/2018 13:45
                 </div>
                 <div class="card-title">
-                    I am a very simple card
+                    <a href="javascript:void(null)">
+                        I am a very simple card
+                    </a>
                 </div>
                 <div class="card-content">
-                    I am a very simple card. I am good at containing small bits of information
+                    <a href="javascript:void()">
+                        I am a very simple card. I am good at containing small bits of information
+                    </a>
                 </div>
             </div>
         </div>
@@ -39,26 +43,36 @@
                     17/08/2018 13:45
                 </div>
                 <div class="card-title">
-                    I am a very simple card
+                    <a href="javascript:void(null)">
+                        I am a very simple card
+                    </a>
                 </div>
                 <div class="card-content">
-                    I am a very simple card. I am good at containing small bits of information
+                    <a href="javascript:void()">
+                        I am a very simple card. I am good at containing small bits of information
+                    </a>
                 </div>
             </div>
         </div>
         <div class="col s12 m4">
             <div class="card">
                 <div class="card-image">
-                    <img src="assets/img/drops1.png">
+                    <a href="javascript:void()">
+                        <img src="assets/img/drops1.png">
+                    </a>
                 </div>
                 <div class="card-date">
                     17/08/2018 13:45
                 </div>
                 <div class="card-title">
-                    I am a very simple card
+                    <a href="javascript:void(null)">
+                        I am a very simple card
+                    </a>
                 </div>
                 <div class="card-content">
-                    I am a very simple card. I am good at containing small bits of information
+                    <a href="javascript:void()">
+                        I am a very simple card. I am good at containing small bits of information
+                    </a>
                 </div>
             </div>
         </div>
@@ -88,18 +102,26 @@
                         </div>
                         <br/>
                         <div class="card-title">
-                            I am a very simple card
+                            <a href="javascript:void(null)">
+                                I am a very simple card
+                            </a>
                         </div>
                         <div class="card-content">
-                            I am a very simple card. I am good at containing small bits of information
+                            <a href="javascript:void()">
+                                I am a very simple card. I am good at containing small bits of information
+                            </a>
                         </div>
                     </div>
                     <div class="card">
                         <div class="card-title">
-                            I am a very simple card
+                            <a href="javascript:void(null)">
+                                I am a very simple card
+                            </a>
                         </div>
                         <div class="card-content">
-                            I am a very simple card. I am good at containing small bits of information
+                            <a href="javascript:void()">
+                                I am a very simple card. I am good at containing small bits of information
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -110,18 +132,26 @@
                         </div>
                         <br/>
                         <div class="card-title">
-                            I am a very simple card
+                            <a href="javascript:void(null)">
+                                I am a very simple card
+                            </a>
                         </div>
                         <div class="card-content">
-                            I am a very simple card. I am good at containing small bits of information
+                            <a href="javascript:void()">
+                                I am a very simple card. I am good at containing small bits of information
+                            </a>
                         </div>
                     </div>
                     <div class="card">
                         <div class="card-title">
-                            I am a very simple card
+                            <a href="javascript:void(null)">
+                                I am a very simple card
+                            </a>
                         </div>
                         <div class="card-content">
-                            I am a very simple card. I am good at containing small bits of information
+                            <a href="javascript:void()">
+                                I am a very simple card. I am good at containing small bits of information
+                            </a>
                         </div>
                     </div>
                 </div>
