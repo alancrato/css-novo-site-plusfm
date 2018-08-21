@@ -14,7 +14,7 @@
 
 </head>
 <body>
-<nav role="navigation">
+<nav role="navigation" class="background-about">
     <div class="nav-wrapper container">
 
         <div class="row hide-on-small-only">
