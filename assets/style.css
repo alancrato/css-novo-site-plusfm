@@ -701,6 +701,31 @@ footer ul li{
 }
 
 /*
+    promoções
+ */
+
+.card .card-image .card-title {
+    color: #6a1fa0;
+    position: absolute;
+    bottom: 4px;
+    left: 14px;
+    max-width: 100%;
+    padding: 5px 22px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.card .card-title {
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+.card .card-title a{
+    font-size: 1.4em;
+    color: #ea5d65;
+}
+
+/*
   desktop
  */
 @media only screen and (min-width: 1200px){
@@ -896,6 +921,14 @@ footer ul li{
     .programacao-mobile .carousel .indicators .indicator-item{
         height: 4px;
         width: 12px;
+    }
+
+    /*
+        promoções
+     */
+
+    .subtitle-prog-da-plus{
+        text-align: inherit;
     }
 
 }
