@@ -725,6 +725,62 @@ footer ul li{
     color: #ea5d65;
 }
 
+
+/*
+    contato
+ */
+
+.inf-contact{
+    padding: 5px 30px;
+    margin-top: 25px;
+}
+
+.inf-contact-title{
+    font-size: 1em;
+    font-weight: 300;
+    color: #6a1b9a;
+}
+
+.inf-contact-content{
+    font-size: 1.4em;
+    font-weight: 300;
+    color: #a59a9a;
+    margin-bottom: 10%;
+}
+
+input:not([type]):focus:not([readonly]) + label, input[type=text]:not(.browser-default):focus:not([readonly]) + label, input[type=password]:not(.browser-default):focus:not([readonly]) + label, input[type=email]:not(.browser-default):focus:not([readonly]) + label, input[type=url]:not(.browser-default):focus:not([readonly]) + label, input[type=time]:not(.browser-default):focus:not([readonly]) + label, input[type=date]:not(.browser-default):focus:not([readonly]) + label, input[type=datetime]:not(.browser-default):focus:not([readonly]) + label, input[type=datetime-local]:not(.browser-default):focus:not([readonly]) + label, input[type=tel]:not(.browser-default):focus:not([readonly]) + label, input[type=number]:not(.browser-default):focus:not([readonly]) + label, input[type=search]:not(.browser-default):focus:not([readonly]) + label, textarea.materialize-textarea:focus:not([readonly]) + label{
+    color: #b5abab;
+}
+
+input.valid:not([type]), input.valid:not([type]):focus, input[type=text].valid:not(.browser-default), input[type=text].valid:not(.browser-default):focus, input[type=password].valid:not(.browser-default), input[type=password].valid:not(.browser-default):focus, input[type=email].valid:not(.browser-default), input[type=email].valid:not(.browser-default):focus, input[type=url].valid:not(.browser-default), input[type=url].valid:not(.browser-default):focus, input[type=time].valid:not(.browser-default), input[type=time].valid:not(.browser-default):focus, input[type=date].valid:not(.browser-default), input[type=date].valid:not(.browser-default):focus, input[type=datetime].valid:not(.browser-default), input[type=datetime].valid:not(.browser-default):focus, input[type=datetime-local].valid:not(.browser-default), input[type=datetime-local].valid:not(.browser-default):focus, input[type=tel].valid:not(.browser-default), input[type=tel].valid:not(.browser-default):focus, input[type=number].valid:not(.browser-default), input[type=number].valid:not(.browser-default):focus, input[type=search].valid:not(.browser-default), input[type=search].valid:not(.browser-default):focus, textarea.materialize-textarea.valid, textarea.materialize-textarea.valid:focus, .select-wrapper.valid > input.select-dropdown {
+    border-bottom: 1px solid #b5abab;
+    -webkit-box-shadow: 0 1px 0 0 #b5abab;
+    box-shadow: 0 1px 0 0 #b5abab;
+}
+
+.validate{
+    border-bottom: 1px solid #b5abab !important;
+    box-shadow: 0 1px 0 0 #b5abab !important;
+}
+
+textarea{
+    border-bottom: 1px solid #b5abab !important;
+    box-shadow: 0 1px 0 0 #b5abab !important;
+}
+
+.btn, .btn-large, .btn-small {
+    background-color: #6a1b9a;
+}
+
+.btn:hover{
+    background-color: #350f4d;
+}
+
+.btn:focus, .btn-large:focus, .btn-small:focus, .btn-floating:focus {
+    background-color: #6a1b9a;
+}
+
+
 /*
   desktop
  */
@@ -929,6 +985,15 @@ footer ul li{
 
     .subtitle-prog-da-plus{
         text-align: inherit;
+    }
+
+    /*
+        contato
+     */
+
+    .inf-contact {
+        padding: 5px 10px;
+        margin-top: 25px;
     }
 
 }

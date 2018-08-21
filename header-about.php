@@ -19,7 +19,7 @@
 
         <div class="row hide-on-small-only">
             <div class="col s2">
-                <a id="logo-container" href="javascript:void(null)" class="brand-logo">
+                <a id="logo-container" href="index.php" class="brand-logo">
                     <img src="assets/img/logo.png"/>
                 </a>
             </div>
@@ -28,19 +28,19 @@
             </div>
             <div class="col s8 margin-menu">
                 <ul class="right hide-on-med-and-down">
-                    <li><a href="javascript:void(null)">Home</a></li>
-                    <li><a href="javascript:void(null)">Quem Somos</a></li>
-                    <li><a href="javascript:void(null)">Drops da Plus</a></li>
-                    <li><a href="javascript:void(null)">Programação</a></li>
-                    <li><a href="javascript:void(null)">Promoções</a></li>
-                    <li><a href="javascript:void(null)">Contato</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="quem-somos.php">Quem Somos</a></li>
+                    <li><a href="categoria.php">Drops da Plus</a></li>
+                    <li><a href="programacao.php">Programação</a></li>
+                    <li><a href="promocoes.php">Promoções</a></li>
+                    <li><a href="contato.php">Contato</a></li>
                 </ul>
             </div>
         </div>
 
         <div class="row hide-on-med-and-up">
             <div class="col s6">
-                <a class="logo-mobile">
+                <a href="index.php" class="logo-mobile">
                     <img src="assets/img/logo.png"/>
                 </a>
             </div>
@@ -59,12 +59,12 @@
                         </div>
                     </div>
                 </li>
-                <li><a href="javascript:void(null)"><i class="material-icons">home</i> Home</a></li>
-                <li><a href="javascript:void(null)"><i class="material-icons">music_video</i> Quem Somos</a></li>
-                <li><a href="javascript:void(null)"><i class="material-icons">textsms</i> Drops da Plus</a></li>
-                <li><a href="javascript:void(null)"><i class="material-icons">queue_music</i> Programação</a></li>
-                <li><a href="javascript:void(null)"><i class="material-icons">card_giftcard</i> Promoções</a></li>
-                <li><a href="javascript:void(null)"><i class="material-icons">settings_cell</i> Contato</a></li>
+                <li><a href="index.php"><i class="material-icons">home</i> Home</a></li>
+                <li><a href="quem-somos.php"><i class="material-icons">music_video</i> Quem Somos</a></li>
+                <li><a href="categoria.php"><i class="material-icons">textsms</i> Drops da Plus</a></li>
+                <li><a href="programacao.php"><i class="material-icons">queue_music</i> Programação</a></li>
+                <li><a href="promocoes.php"><i class="material-icons">card_giftcard</i> Promoções</a></li>
+                <li><a href="contato.php"><i class="material-icons">settings_cell</i> Contato</a></li>
                 <li><a href="http://www.cearanews7.com" target="_blank"><i class="material-icons">web</i> Ceará News 7</a></li>
             </ul>
         </div>

@@ -23,7 +23,7 @@
                     17/08/2018 13:45
                 </div>
                 <div class="card-title">
-                    <a href="javascript:void(null)">
+                    <a href="single.php">
                         I am a very simple card
                     </a>
                 </div>

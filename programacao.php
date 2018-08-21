@@ -1,5 +1,5 @@
 <?php
-require 'header-about.php';
+    require 'header-about.php';
 ?>
 
 <div class="header-category"></div>
@@ -109,5 +109,5 @@ require 'header-about.php';
 
 
 <?php
-require 'footer.php';
+    require 'footer.php';
 ?>
