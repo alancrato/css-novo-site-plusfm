@@ -846,6 +846,10 @@ footer ul li{
         font-size: 1em;
     }
 
+    .header-category {
+        height: 70px;
+    }
+
     /*
         single
      */

@@ -9,9 +9,6 @@
         <div class="pub-desktop hide-on-small-only">
             PUBLICIDADE
         </div>
-        <div class="pub-mobile hide-on-med-and-up">
-            PUBLICIDADE
-        </div>
     </div>
 </div>
 
@@ -36,6 +33,11 @@
                 <img class="face-img" src="assets/img/social/facebook.png"/>
                 <img src="assets/img/social/twitter.png"/>
                 <img src="assets/img/social/whatsapp.png"/>
+            </div>
+            <div class="row">
+                <div class="pub-mobile hide-on-med-and-up">
+                    PUBLICIDADE
+                </div>
             </div>
             <div class="line"></div>
             <div class="row">
